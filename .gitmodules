@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "envstat"]
+	path = envstat
+	url = https://github.com/sellorm/envstat
+	shallow = true
+	registered = true
+[submodule "nhsnumber"]
+	path = nhsnumber
+	url = https://github.com/sellorm/nhsnumber
+	shallow = true
+	registered = true
+[submodule "rlog"]
+	path = rlog
+	url = https://github.com/sellorm/rlog
+	shallow = true
+	registered = true

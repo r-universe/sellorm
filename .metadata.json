@@ -1,0 +1,14 @@
+[
+  {
+    "package": "envstat",
+    "oncran": true
+  },
+  {
+    "package": "nhsnumber",
+    "oncran": true
+  },
+  {
+    "package": "rlog",
+    "oncran": true
+  }
+]
