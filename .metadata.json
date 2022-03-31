@@ -1,6 +1,6 @@
 [
   {
-    "package": "envstat",
+    "package": "rlog",
     "oncran": true
   },
   {
@@ -8,7 +8,28 @@
     "oncran": true
   },
   {
-    "package": "rlog",
+    "package": "rspmapi"
+  },
+  {
+    "package": "cranq"
+  },
+  {
+    "package": "memorids"
+  },
+  {
+    "package": "dailies"
+  },
+  {
+    "package": "qsimage"
+  },
+  {
+    "package": "ekl"
+  },
+  {
+    "package": "rsay"
+  },
+  {
+    "package": "envstat",
     "oncran": true
   }
 ]
