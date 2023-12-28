@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/sellorm/universe
-	shallow = true
 	branch = HEAD
-[submodule "rlog"]
-	path = rlog
-	url = https://github.com/sellorm/rlog
-	shallow = true
-	registered = true
-[submodule "nhsnumber"]
-	path = nhsnumber
-	url = https://github.com/sellorm/nhsnumber
-	shallow = true
-	registered = true
-[submodule "rspmapi"]
-	path = rspmapi
-	url = https://github.com/sellorm/rspmapi
-	shallow = true
-	registered = true
 [submodule "cranq"]
 	path = cranq
 	url = https://github.com/sellorm/cranq
-	shallow = true
-	registered = true
-[submodule "memorids"]
-	path = memorids
-	url = https://github.com/sellorm/memorids
-	shallow = true
-	registered = true
 [submodule "dailies"]
 	path = dailies
 	url = https://github.com/sellorm/dailies
-	shallow = true
-	registered = true
-[submodule "qsimage"]
-	path = qsimage
-	url = https://github.com/sellorm/qsimage
-	shallow = true
-	registered = true
 [submodule "ekl"]
 	path = ekl
 	url = https://github.com/sellorm/ekl
-	shallow = true
-	registered = true
-[submodule "rsay"]
-	path = rsay
-	url = https://github.com/sellorm/rsay
-	shallow = true
-	registered = true
 [submodule "envstat"]
 	path = envstat
 	url = https://github.com/sellorm/envstat
-	shallow = true
-	registered = true
+[submodule "memorids"]
+	path = memorids
+	url = https://github.com/sellorm/memorids
+[submodule "nhsnumber"]
+	path = nhsnumber
+	url = https://github.com/sellorm/nhsnumber
+[submodule "qsimage"]
+	path = qsimage
+	url = https://github.com/sellorm/qsimage
+[submodule "rlog"]
+	path = rlog
+	url = https://github.com/sellorm/rlog
+[submodule "rsay"]
+	path = rsay
+	url = https://github.com/sellorm/rsay
+[submodule "rspmapi"]
+	path = rspmapi
+	url = https://github.com/sellorm/rspmapi
