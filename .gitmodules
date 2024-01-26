@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/sellorm/universe
+	url = https://github.com/sellorm/sellorm.r-universe.dev
 	branch = HEAD
 [submodule "cranq"]
 	path = cranq
