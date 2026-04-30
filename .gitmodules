@@ -1,34 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/sellorm/sellorm.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cranq"]
-	path = cranq
-	url = https://github.com/sellorm/cranq
-[submodule "dailies"]
-	path = dailies
-	url = https://github.com/sellorm/dailies
-[submodule "ekl"]
-	path = ekl
-	url = https://github.com/sellorm/ekl
 [submodule "envstat"]
 	path = envstat
 	url = https://github.com/sellorm/envstat
-[submodule "memorids"]
-	path = memorids
-	url = https://github.com/sellorm/memorids
 [submodule "nhsnumber"]
 	path = nhsnumber
 	url = https://github.com/sellorm/nhsnumber
-[submodule "qsimage"]
-	path = qsimage
-	url = https://github.com/sellorm/qsimage
 [submodule "rlog"]
 	path = rlog
 	url = https://github.com/sellorm/rlog
-[submodule "rsay"]
-	path = rsay
-	url = https://github.com/sellorm/rsay
-[submodule "rspmapi"]
-	path = rspmapi
-	url = https://github.com/sellorm/rspmapi
